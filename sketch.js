@@ -5,7 +5,7 @@ var S = 15,
     click=false;
     first=true;
     col = "black",
-    back = "#122754";
+    back = "#272727";
     randomColor = ["#34ea27","#f9f213", "#f98512", "#f93c12", "#f91289", "#f13df7", "#2511ff", "#35b1ff", "#30ffc4"]
 
 function setup() {
