@@ -117,7 +117,7 @@ function cerchio1() {
  //stroke("red")
  strokeWeight(S);
  if (hour()>19) {due()}
- else if (hour()>10) {uno()}
+ else if (hour()>9) {uno()}
  else {zero()}
   
  }
